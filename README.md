@@ -1,4 +1,4 @@
-#This project is very easy Counter App with React.
+# This project is very easy Counter App with React.
 Just trying to understand general idea behind of React and how it works :)
 
 # Getting Started with Create React App
