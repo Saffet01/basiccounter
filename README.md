@@ -1,3 +1,6 @@
+#This project is very easy Counter App with React.
+Just trying to understand general idea behind of React and how it works :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
